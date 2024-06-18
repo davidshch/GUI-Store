@@ -8,7 +8,7 @@ import javax.sound.sampled.*;
 import javax.swing.table.DefaultTableModel;
 
 /* Name: David Shcherbatykh 
- * Due: Wednesday, Nov. 22
+ * Wednesday, Nov. 22
  * ICS3U 
  * Description: A simple POS terminal for a refurbished computer system store named TechRevive. You must login 
  * with the account password TR123! and the username of your account (up to the user) that is 18 characters or less.
